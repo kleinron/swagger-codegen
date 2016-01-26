@@ -102,5 +102,5 @@ Take a look at the sample templates here:
 <li> The main class to run your server: [main.mustache](https://github.com/wordnik/swagger-codegen/blob/master/samples/server-generator/node/templates/main.mustache)
 
 
-Sound easy?  It is!
+Sounds easy?  It is!
 
